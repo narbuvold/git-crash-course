@@ -16,3 +16,7 @@
     --unordered           do not order --batch-all-objects output
 
 	nothing here makes sense
+    -p                    pretty-print object's content
+    --textconv            for blob objects, run textconv on object's content
+    --filters             for blob objects, run filters on object's content
+    --path <blob>         use a specific path for --textcon
