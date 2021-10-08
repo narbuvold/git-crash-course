@@ -38,3 +38,4 @@
     --unordered           do not order --batch-all-objects output
 
 	nothing here makes sense
+    --unordered           do not order --batch-all-objects output
