@@ -1,4 +1,5 @@
 <type> can be one of: blob, tree, commit, tag
+1
     -t                    show object type
     -s                    show object size
     -e                    exit with zero when there's no error
